@@ -1,0 +1,4 @@
+<use name="HeavyIonsAnalysis/MyAnalysis"/>
+<library file="*.cc" name="MyAnalysisPlugins">
+	<flags EDM_PLUGIN="1"/>
+</library>

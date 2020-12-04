@@ -1,0 +1,10 @@
+__init__.py
+*.pyc
+.*.swp
+.#*
+#*#
+*~
+*.root
+
+# heavy ion specific
+HeavyIonsAnalysis/JetAnalysis/python/jets/ak*JetSequence_*_*_cff.py
